@@ -1,0 +1,15 @@
+@import './../components/Header/Header';
+@import './../components/Section1_Slider/Section1';
+@import './../components/Section2_Datas/Section2';
+@import './../components/Section3_Datas/Section3';
+@import './../components/Section4_Datas/Section4';
+@import './../components/Section5_Datas/Section5';
+@import './../components/Section6_Datas/Section6';
+
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}

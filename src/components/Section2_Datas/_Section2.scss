@@ -1,0 +1,28 @@
+#Section_2{
+    margin-top: 70px;
+   a{
+    color: black;
+    text-decoration: none;
+    .image-info{
+        .image{
+            img{
+                border-radius: 10px;
+                width: 99%;
+            }
+        }
+        .info{
+            margin-left: 2px;
+            .title{
+                font-size: 29px;
+                margin: 0;
+                svg{
+                    margin-left: 20px;
+                }
+            }
+            .text{
+                font-size: 17px;
+            }
+        }
+    }
+   }
+}
